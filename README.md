@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Aqui é um projeto que fiz para praticar e entender como funciona um site responsivo web.
+Aqui é um projeto que fiz para praticar e entender como funciona um site responsivo web. (https://fastidious-sunburst-715f3b.netlify.app/)
 
 
 ## Layout web
