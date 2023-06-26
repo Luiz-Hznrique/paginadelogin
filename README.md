@@ -7,7 +7,7 @@ Aqui é um projeto que fiz para praticar e entender como funciona um site respon
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Luiz-Hznrique/paginadelogin/blob/master/assets/FotoSite.png)
 
 # Tecnologias utilizadas
 ## Front end
