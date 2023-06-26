@@ -1,4 +1,4 @@
-# Big Game Survey 
+# PROJETO WEB
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Luiz-Hznrique/paginadelogin/blob/master/LICENSE) 
 
 # Sobre o projeto
